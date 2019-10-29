@@ -1844,7 +1844,7 @@ Noida
 - Bio: Web Developer
 - GitHub: [Rafael Barbosa Conceição](https://github.com/darthmasters/)
 
-#### Name: [Eric](https://github.com/Eric-Tadeja/)
-- Place: Redmond, Washington
-- Bio: service engineer
-- GitHub: [Eric-Tadeja
+#### Name: [Hughielika](https://github.com/hughielika)
+- Place: Jakarta, Indonesia
+- Bio: student
+- GitHub: [Hughielika] 
